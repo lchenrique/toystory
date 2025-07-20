@@ -16,7 +16,7 @@ Este projeto é um sistema de gestão empresarial completo desenvolvido para loj
 ## 🏗️ Arquitetura
 
 ### Frontend (React + TypeScript)
-- **Localização**: `toy-store-front/toy-store-client/`
+- **Localização**: `toy-store-front/`
 - **Tecnologias**: React 18, TypeScript, Vite, Tailwind CSS
 - **Porta**: 5173 (desenvolvimento)
 
